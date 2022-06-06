@@ -1,0 +1,6 @@
+track Canine_RetroCNV
+type bigBed 4
+bigDataUrl Canine_RetroCNV.bb
+shortLabel Canine RetroCNV
+longLabel Retrocopy insertion sites identified in a dataset of 293 canids
+
