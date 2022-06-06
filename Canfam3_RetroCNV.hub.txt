@@ -1,0 +1,5 @@
+hub CanFam3RetroCNV
+shortLabel Polymorphic retrocopy insertion sites in CanFam3.1.
+longLabel University of California, Davis, Department of Population Health and Reproduction, Bannasch Lab, RetroCNV Track Hub
+genomesFile .txt
+email dlbannasch@ucdavis.edu
