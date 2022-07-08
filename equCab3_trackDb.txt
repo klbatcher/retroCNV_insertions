@@ -1,0 +1,5 @@
+track Equine_RetroCNV
+type bigBed 4
+bigDataUrl Equine_RetroCNV.bb
+shortLabel Equine RetroCNV
+longLabel Retrocopy insertion sites identified in a dataset of 86 Equids
