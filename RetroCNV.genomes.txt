@@ -1,2 +1,2 @@
 genome canFam3
-trackDb trackDb.txt
+trackDb CanFam3_trackDb.txt
