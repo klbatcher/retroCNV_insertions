@@ -1,2 +1,5 @@
 genome canFam3
 trackDb CanFam3_trackDb.txt
+
+genome equCab3
+trackDb equCab3_trackDb.txt
